@@ -1,0 +1,108 @@
+CLAIM TRANSPARENCY FRAMEWORK
+Governance and Update Policy
+Version 1.0
+
+Purpose
+This document defines how the Claim Transparency Framework (CTF) is maintained, updated, and governed over time.
+Its objective is to ensure stability, neutrality, and continuity, while allowing controlled evolution.
+
+—
+
+1. Governance Principles
+
+The governance of the CTF is based on the following principles:
+- neutrality
+- non-endorsement
+- non-capture
+- continuity
+- minimal authority
+
+The CTF is not governed by belief systems, industries, practitioners, or platforms.
+
+—
+
+2. Absence of Central Authority
+
+The CTF does not rely on a single individual, founder, or spokesperson.
+Governance functions are procedural, not personal.
+
+No individual has unilateral authority to modify the framework.
+
+—
+
+3. Governance Body (Framework Stewardship Group)
+
+The CTF may be overseen by a stewardship group responsible for:
+- maintaining documentation
+- managing version updates
+- ensuring internal consistency
+- publishing clarifications when needed
+
+The stewardship group does not evaluate claims, practices, or individuals.
+
+—
+
+4. Independence and Conflict of Interest
+
+Members involved in stewardship activities must:
+- disclose potential conflicts of interest
+- refrain from participating in decisions where conflicts exist
+
+Governance roles do not grant influence over claim classification or platform decisions.
+
+—
+
+5. Update Principles
+
+Updates to the CTF must adhere to the following constraints:
+- backward compatibility where possible
+- no retroactive modification of past declarations
+- no introduction of validation, certification, or scoring
+- preservation of neutrality
+
+—
+
+6. Versioning
+
+Each update results in a new framework version.
+Versions are publicly documented and timestamped.
+
+Deprecated elements remain documented for reference.
+
+—
+
+7. Amendment Triggers
+
+Amendments may be initiated due to:
+- operational feedback
+- platform requirements
+- legal or regulatory developments
+- identified ambiguities
+
+Amendments are not initiated to respond to ideological or reputational pressure.
+
+—
+
+8. Public Consultation (Optional)
+
+The stewardship group may open limited public consultation for specific clarifications.
+Consultation does not imply voting or consensus-based governance.
+
+—
+
+9. Stability Commitment
+
+The CTF prioritizes stability over rapid iteration.
+Frequent changes are avoided to preserve trust and adoption.
+
+—
+
+10. Dissolution or Forking
+
+In the event that stewardship becomes compromised or inactive:
+- the framework documentation remains accessible
+- third parties may fork the framework under the same principles
+
+—
+
+End of Governance and Update Policy — Version 1.0

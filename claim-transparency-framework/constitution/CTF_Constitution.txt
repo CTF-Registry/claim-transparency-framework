@@ -1,0 +1,202 @@
+CLAIM TRANSPARENCY FRAMEWORK (CTF)
+CONSTITUTION — VERSION 1.0 (CANONICAL TEXT)
+PREAMBLE
+
+The Claim Transparency Framework (CTF) is a procedural standard designed to structure, document, and trace public claims without asserting their truth, validity, effectiveness, or legitimacy.
+
+CTF exists to clarify responsibility, scope, and limits of claims in environments where ambiguity generates risk, conflict, or misinterpretation.
+
+CTF does not evaluate reality.
+CTF documents declarations.
+
+ARTICLE I — PURPOSE
+1.1 Purpose of CTF
+
+The sole purpose of CTF is to provide a neutral, structured, and reproducible method for declaring claims.
+
+CTF exists to:
+
+make implicit claims explicit,
+
+associate claims with clear responsibility,
+
+define scope and limitations of claims,
+
+enable procedural handling of ambiguity.
+
+1.2 Absence of evaluative function
+
+CTF shall never:
+
+validate claims,
+
+invalidate claims,
+
+certify practices,
+
+assess effectiveness,
+
+judge belief systems,
+
+determine truth or falsity.
+
+ARTICLE II — NATURE OF THE FRAMEWORK
+2.1 Declarative-only standard
+
+CTF is strictly declarative.
+It operates exclusively on what is claimed, not on what is.
+
+2.2 Non-normative position
+
+CTF does not impose:
+
+moral standards,
+
+ethical judgments,
+
+scientific criteria,
+
+cultural interpretations.
+
+2.3 Procedural neutrality
+
+CTF treats all claims identically, regardless of:
+
+domain,
+
+popularity,
+
+controversy,
+
+social acceptance.
+
+ARTICLE III — CORE INVARIANTS (NON-MODIFIABLE)
+
+The following principles are absolute invariants and shall never be modified, overridden, or bypassed:
+
+Non-assertiveness
+CTF makes no assertions about reality.
+
+Non-legitimation
+Use of CTF does not imply endorsement or credibility.
+
+Responsibility Attribution
+Every claim remains fully attributable to its declarant.
+
+No Arbitration of Substance
+CTF never arbitrates content, meaning, or outcome.
+
+Single Canonical Specification
+Only one official version of the CTF specification exists at any time.
+
+ARTICLE IV — WHAT CTF IS NOT
+
+CTF is not:
+
+a certification system,
+
+a regulatory authority,
+
+a truth verification mechanism,
+
+a consumer protection label,
+
+a dispute resolution system,
+
+a governance of practices.
+
+Any representation of CTF as such constitutes misuse.
+
+ARTICLE V — SCOPE OF THE CORE STANDARD
+5.1 Core standard definition
+
+The CTF core standard is limited to:
+
+claim structure,
+
+claim categorization,
+
+declaration levels,
+
+explicit non-claims,
+
+versioning and traceability.
+
+5.2 Sector neutrality
+
+The core standard is sector-agnostic and shall not embed domain-specific assumptions.
+
+ARTICLE VI — ABSOLUTE PROHIBITIONS
+
+The following actions are strictly prohibited:
+
+assigning scores or ratings to claims,
+
+ranking claims by credibility,
+
+issuing approvals or rejections of claims,
+
+representing CTF usage as proof of validity,
+
+modifying declarations without declarant attribution.
+
+Any system or operator performing these actions is incompatible with CTF.
+
+ARTICLE VII — INTERPRETATION RULES
+7.1 Literal interpretation
+
+All CTF texts, declarations, and specifications shall be interpreted literally and procedurally.
+
+7.2 No implied meaning
+
+No implied, inferred, or contextual meaning shall be attributed beyond what is explicitly declared.
+
+ARTICLE VIII — GOVERNANCE PRINCIPLE
+8.1 Non-personal governance
+
+CTF governance is non-personal and non-charismatic.
+
+Authority resides exclusively in:
+
+this Constitution,
+
+the canonical specification,
+
+the procedural rules of evolution.
+
+8.2 Role of maintainers
+
+Maintainers may:
+
+ensure textual coherence,
+
+enforce compatibility rules,
+
+publish versions.
+
+Maintainers may not:
+
+judge claims,
+
+interpret intent,
+
+modify invariants.
+
+ARTICLE IX — EVOLUTION FRAMEWORK
+9.1 Controlled evolution
+
+CTF may evolve only through formally defined extension mechanisms.
+
+9.2 Invariant protection
+
+No evolution mechanism may alter or bypass the Core Invariants defined in Article III.
+
+9.3 Compatibility requirement
+
+All extensions must remain fully compatible with the core standard.
+
+ARTICLE X — FINAL PROVISION
+
+This Constitution is the highest authority of the Claim Transparency Framework.
+
+Any conflict between this Constitution and any other document, module, or implementation shall be resolved in favor of this Constitution.

@@ -1,0 +1,40 @@
+CLAIM TRANSPARENCY FRAMEWORK
+Global Disclaimer
+Version 1.0
+
+The Claim Transparency Framework (CTF) is a neutral, declarative framework designed to document claims related to non-conventional practices.
+
+The CTF does not:
+- determine the truth or falsity of any claim
+- evaluate effectiveness, safety, or outcomes
+- validate, certify, endorse, or approve any practice or practitioner
+- provide medical, legal, financial, scientific, or professional advice
+
+All claims recorded within the CTF are declared by practitioners under their sole responsibility.
+
+The presence of a claim within the CTF Registry does not imply:
+- accuracy
+- reliability
+- endorsement
+- suitability for any individual or context
+
+Users, platforms, and third parties remain fully responsible for:
+- their interpretation of CTF declarations
+- decisions made based on such information
+- compliance with applicable laws and regulations
+
+The CTF serves solely as a transparency and documentation framework.
+Use of the framework is voluntary and non-binding.
+
+Non-Legitimization Clause
+
+Use of the Claim Transparency Framework (CTF), including registration of a claim or reference to the framework, does not imply legitimacy, credibility, trustworthiness, effectiveness, safety, or ethical standing of any practice or practitioner.
+
+The CTF provides structured transparency only.
+It does not confer status, approval, or recognition of merit.
+
+This clause applies to all uses of the CTF, including public display, platform integration, and third-party references.
+
+—
+
+End of Global Disclaimer — Version 1.0

@@ -1,0 +1,93 @@
+CLAIM TRANSPARENCY FRAMEWORK
+Platform Compatibility Rules
+Version 1.0
+
+Purpose
+These rules define how declared claims within the CTF may be displayed, contextualized, restricted, or declined by hosting platforms.
+They do not impose decisions, but provide a structured basis for platform-level risk management.
+
+—
+
+1. Principle of Platform Sovereignty
+
+Platforms retain full authority over their own policies, moderation rules, and content decisions.
+The CTF does not override, replace, or challenge platform governance.
+
+—
+
+2. Compatibility Is Contextual, Not Absolute
+
+A claim may be:
+- compatible with one platform
+- restricted on another
+- declined on a third
+
+Compatibility depends on platform-specific risk tolerance, audience, and legal environment.
+
+—
+
+3. Display Categories
+
+Platforms may classify claims into one of the following display modes:
+
+3.1 Full Display  
+The claim is displayed with its full CTF declaration.
+
+3.2 Contextual Display  
+The claim is displayed with additional contextual information (e.g., validation level, limitations, disclaimers).
+
+3.3 Restricted Display  
+The claim is accessible but not promoted, recommended, or monetized.
+
+3.4 Declined Display  
+The claim is not displayed on the platform.
+
+—
+
+4. Validation Level Guidance (Non-Binding)
+
+The following guidance is indicative and non-mandatory:
+
+- Level 0–1 claims are generally low-risk for display.
+- Level 2 claims may require contextual display.
+- Level 3 claims may require explicit conditions and limitations.
+- Level 4 claims may require additional scrutiny depending on the platform.
+
+The CTF does not mandate enforcement.
+
+—
+
+5. Universality and Reproducibility Claims
+
+Claims asserting universality or guaranteed reproducibility may be flagged by platforms for:
+- additional review
+- restricted display
+- or refusal
+
+Such decisions are platform-specific.
+
+—
+
+6. Inconsistency Notices
+
+Platforms may consider documented inconsistency notices when assessing compatibility.
+The presence of an inconsistency notice does not imply falsity.
+
+—
+
+7. Non-Liability of the Framework
+
+The CTF bears no liability for platform decisions, claim content, or user outcomes.
+
+—
+
+8. Audit and Review
+
+Platforms may periodically review compatibility decisions based on:
+- policy changes
+- legal developments
+- updated claim versions
+
+—
+
+End of Platform Compatibility Rules — Version 1.0

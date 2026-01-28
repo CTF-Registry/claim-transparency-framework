@@ -1,0 +1,208 @@
+CLAIM TRANSPARENCY FRAMEWORK (CTF)
+EVOLUTION MECHANISM — CTF-RFC PROCESS (CANONICAL TEXT)
+ARTICLE I — PURPOSE OF THE EVOLUTION MECHANISM
+
+The purpose of the CTF evolution mechanism is to allow controlled, predictable, and compatible evolution of the framework without requiring subjective judgment, ideological arbitration, or personal authority.
+
+Evolution exists to:
+
+extend applicability,
+
+refine structure,
+
+preserve coherence at scale,
+
+ensure long-term viability.
+
+Evolution does not exist to:
+
+reinterpret core principles,
+
+adapt the framework to beliefs,
+
+validate practices,
+
+respond to pressure or popularity.
+
+ARTICLE II — RFC PRINCIPLE
+2.1 Definition
+
+Any proposed change, extension, or addition to the CTF shall be submitted as a CTF-RFC (Claim Transparency Framework — Request for Compatibility).
+
+A CTF-RFC is a formal compatibility proposal, not a request for approval.
+
+2.2 Scope of RFCs
+
+RFCs may apply to:
+
+sectoral modules,
+
+structural clarifications,
+
+technical interfaces,
+
+documentation refinements,
+
+tooling compatibility layers.
+
+RFCs may not apply to:
+
+Core Invariants,
+
+constitutional principles,
+
+responsibility attribution rules,
+
+non-assertiveness constraints.
+
+ARTICLE III — RFC FORMAT (MANDATORY)
+
+Each CTF-RFC must strictly follow the canonical format below.
+
+3.1 RFC Metadata
+
+RFC Identifier
+
+Date of submission
+
+Target CTF version
+
+RFC category (module / clarification / interface)
+
+Backward compatibility statement
+
+3.2 Description
+
+Objective description of the proposed extension
+
+Explicit scope of applicability
+
+Explicit non-scope (what it does not cover)
+
+3.3 Compatibility Analysis
+
+Demonstration of compatibility with all Core Invariants
+
+Confirmation of non-assertiveness
+
+Confirmation of non-legitimation
+
+3.4 Impact Declaration
+
+Expected procedural impact
+
+Affected components (if any)
+
+No evaluation of outcomes or effectiveness permitted
+
+3.5 Formal Compliance Statement
+
+A signed statement declaring full compliance with the Constitution and Core Invariants.
+
+ARTICLE IV — ELIGIBILITY CRITERIA
+
+An RFC is eligible for consideration only if all of the following conditions are met:
+
+Full RFC format compliance
+
+Explicit compatibility with all Core Invariants
+
+No implicit or explicit validation of claims
+
+No introduction of scoring, ranking, or judgment
+
+Clear separation between declaration and interpretation
+
+Failure to meet any criterion results in automatic rejection.
+
+ARTICLE V — ADOPTION MECHANISM
+5.1 Adoption by measurable thresholds
+
+RFC adoption is not based on approval, voting, or authority.
+
+An RFC becomes Active only when predefined measurable thresholds are met, such as:
+
+number of independent implementations,
+
+number of registry usages,
+
+documented compatibility integrations.
+
+Thresholds are defined per RFC category and published in advance.
+
+5.2 Automatic activation
+
+Once thresholds are met:
+
+the RFC status changes automatically to Active,
+
+the RFC becomes part of the canonical specification,
+
+a new minor or major version is issued.
+
+No discretionary intervention is permitted.
+
+ARTICLE VI — VERSIONING RULES
+6.1 Version structure
+
+CTF versions follow semantic versioning:
+
+Major version: structural changes
+
+Minor version: compatible extensions
+
+Patch version: clarifications only
+
+6.2 Backward compatibility
+
+Backward compatibility is mandatory unless explicitly declared and justified in the RFC metadata.
+
+ARTICLE VII — REJECTION AND REVOCATION
+7.1 Automatic rejection
+
+An RFC is automatically rejected if:
+
+it violates any Core Invariant,
+
+it introduces implicit assertions,
+
+it attempts to legitimize claims,
+
+it conflicts with the Constitution.
+
+7.2 Automatic revocation
+
+An adopted RFC may be revoked automatically if:
+
+incompatibility is demonstrated,
+
+formal non-compliance is detected,
+
+documented misuse becomes systemic.
+
+Revocation is procedural and does not imply fault or judgment.
+
+ARTICLE VIII — ROLE OF MAINTAINERS
+8.1 Limited procedural role
+
+Maintainers may:
+
+verify formal compliance,
+
+verify threshold metrics,
+
+publish versions.
+
+Maintainers may not:
+
+interpret intent,
+
+evaluate usefulness,
+
+accelerate or block adoption.
+
+ARTICLE IX — FINAL PROVISION
+
+The RFC mechanism is the sole authorized method for evolving the Claim Transparency Framework.
+
+Any modification outside this process is null and incompatible with CTF.

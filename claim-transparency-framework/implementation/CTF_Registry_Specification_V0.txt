@@ -1,0 +1,80 @@
+CLAIM TRANSPARENCY FRAMEWORK
+Registry Infrastructure Specification
+Version 0.1
+
+PURPOSE
+The CTF Registry is a declarative infrastructure designed to host, version, and expose Claim Declaration Sheets in a neutral, traceable, and non-judicial manner.
+
+The registry does not validate claims.
+It documents declared responsibility.
+
+CORE FUNCTIONS
+- Host Claim Declaration Sheets
+- Maintain version history
+- Ensure public traceability
+- Enable platform compatibility checks
+- Support non-judicial inconsistency reporting
+
+DATA MODEL — CLAIM DECLARATION RECORD
+
+Each record MUST include:
+
+1. Claim ID
+A unique, immutable identifier assigned at creation.
+
+2. Practice Name
+The declared name of the practice.
+
+3. Practitioner or Entity Identifier
+Public-facing identifier (name, pseudonym, or entity name).
+
+4. Category of Practice
+One primary category as defined by the CTF taxonomy.
+
+5. Claim Type
+Declared claim type (symbolic, subjective, experiential, functional, physical, or mixed).
+
+6. Claimed Effect
+Concise description of the claimed effect (max 2 sentences).
+
+7. Required Conditions
+Explicitly declared conditions, or explicit declaration of no conditions.
+
+8. Claimed Validation Level
+Single declared level (0 to 4).
+
+9. Explicit Limitations
+Declared statements describing what the practice does NOT claim to do.
+
+10. Responsibility Disclaimer
+Standardized disclaimer acknowledgment.
+
+11. Declaration Date
+Date of initial declaration.
+
+12. Version Number
+Incremental version number.
+
+13. Status
+Active / Superseded / Archived.
+
+VERSIONING RULES
+- Any modification creates a new version.
+- Previous versions remain publicly accessible.
+- Version history cannot be deleted or altered.
+
+ACCESS LEVELS
+- Public Read Access: enabled by default.
+- Practitioner Edit Access: limited to own declarations.
+- Platform Access: read-only or API-based.
+- Governance Access: procedural only.
+
+NON-FUNCTIONAL REQUIREMENTS
+- Neutral language enforcement
+- No scoring or ranking
+- No truth evaluation
+- Auditability by design
+
+DISCLAIMER
+The CTF Registry does not certify, validate, or endorse any practice.
+All responsibility for declared claims remains with the declaring party.

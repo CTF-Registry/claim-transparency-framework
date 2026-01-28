@@ -1,0 +1,4 @@
+CTF Version: 1.2
+Status: Frozen
+Modification policy: RFC-only
+Last modification: 2026-01-28

@@ -1,0 +1,21 @@
+Claim Transparency Framework (CTF)
+Canonical Specification — Version 1.2
+Status: Frozen
+Date: 2026-01-28
+
+CTF is an open, declarative transparency framework.
+
+CTF does not validate, judge, certify, endorse, or legitimize any claim, practice, belief, method, or individual.
+
+CTF provides a procedural structure for claim declaration, classification, and transparency only.
+
+No authority, moral position, or truth assessment is implied.
+
+The only authoritative documents are those explicitly listed in this canonical specification.
+
+© Claim Transparency Framework.  
+All texts are published as the canonical specification of CTF.  
+Reproduction is permitted for reference and implementation purposes, provided that the original source is clearly cited and no modification is presented as official.
+
+Contact (procedural only):
+CTF-Registry@protonmail.com
