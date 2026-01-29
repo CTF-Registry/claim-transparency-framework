@@ -43,6 +43,8 @@ Core invariants are immutable.
 CTF makes no claims regarding truth, effectiveness, safety, legality, or legitimacy of any declared practice or belief.
 Use of the framework does not imply endorsement or approval.
 
+
+This framework addresses the structural problem of unverifiable or non-falsifiable claims in digital environments, without validation, endorsement, or suppression.
 ---
 
 Canonical contact (procedural only):  
