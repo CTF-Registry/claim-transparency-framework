@@ -13,9 +13,14 @@ No authority, moral position, or truth assessment is implied.
 
 The only authoritative documents are those explicitly listed in this canonical specification.
 
+References to spiritual, belief-based, metaphysical or non-verifiable practices are used solely as illustrative examples.
+
+The Claim Transparency Framework applies equally to any domain involving unverifiable, contextual, probabilistic, automated or non-falsifiable claims.
+
 © Claim Transparency Framework.  
 All texts are published as the canonical specification of CTF.  
 Reproduction is permitted for reference and implementation purposes, provided that the original source is clearly cited and no modification is presented as official.
 
 Contact (procedural only):
 CTF-Registry@protonmail.com
+
