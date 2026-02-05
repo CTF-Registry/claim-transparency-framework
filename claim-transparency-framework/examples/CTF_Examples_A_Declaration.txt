@@ -1,0 +1,25 @@
+# CTF Example Declaration — Entry Point (A)
+
+This is a fictional example provided for illustrative purposes only.
+
+## Claim Overview
+- Claim Domain: Guidance / Non-verifiable content
+- Claim Level: Level 2 — Subjective / Individual Experience
+- Scope: Individual session
+- Reproducibility: Not claimed
+
+## Claim Description
+The practitioner declares providing intuitive guidance intended for personal reflection and insight.  
+No factual accuracy, prediction, or external validation is asserted.
+
+## Explicit Non-Promises
+- No guarantee of outcome
+- No predictive accuracy claim
+- No causal effect on external events
+- No replacement for professional, medical, legal, or financial advice
+
+## User Responsibility Notice
+The recipient acknowledges that interpretations are subjective and that outcomes may vary depending on individual context.
+
+## CTF Compliance Statement
+This declaration is made under the Claim Transparency Framework (CTF) for disclosure purposes only.
