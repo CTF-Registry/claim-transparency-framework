@@ -5,6 +5,7 @@
 The Claim Transparency Framework (CTF) is a declarative transparency framework designed to structure, classify, and document unverified claims without validation, endorsement, arbitration, or moral judgment.
 
 CTF exists to reduce ambiguity and implicit responsibility in environments where claims cannot be conclusively proven or disproven.
+Entry point (A): Non-Verifiable Claims & Guidance Content → docs/ENTRYPOINT_A.txt
 
 ## What CTF Is
 - A neutral declaration layer for public claims
