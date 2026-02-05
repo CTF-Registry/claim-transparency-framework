@@ -1,0 +1,25 @@
+# CTF Entry Point (A) — Non-Verifiable Claims & Guidance Content
+
+## What problem this addresses
+A growing share of online content contains claims that are difficult or impossible to verify (e.g., guidance, spiritual assertions, intuitive readings, predictive statements, or other non-verifiable propositions).  
+The core issue is not whether such claims are “true” or “false”, but the lack of consistent, structured disclosure about what is being asserted and what is being promised.
+
+## What CTF provides
+CTF (Claim Transparency Framework) is a neutral, declarative standard that enables a structured claim disclosure without:
+- judging truth,
+- validating outcomes,
+- certifying practitioners,
+- or arbitrating disputes.
+
+CTF focuses on **what is declared**: claim type, claim level, scope, reproducibility stance, and explicit promise/non-promise flags.
+
+## Who this is useful for
+CTF is designed to be usable by:
+- platforms (trust & safety / policy / compliance),
+- marketplaces,
+- professional directories,
+- and any environment where non-verifiable claims can create consumer confusion or dispute risk.
+
+## What CTF does NOT do
+CTF does not remove content, does not label anyone as legitimate or illegitimate, and does not provide legal protection by itself.  
+It is a transparency layer intended to reduce ambiguity and improve interpretability.
